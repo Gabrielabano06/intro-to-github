@@ -65,4 +65,4 @@ jobs:
           from_step: 2
           to_step: 3
           branch_name: my-first-branch
-          [![Step 2, Commit a file](https://github.com/Gabrielabano06/intro-to-github/actions/workflows/2-commit-a-file.yml/badge.svg)](https://github.com/Gabrielabano06/intro-to-github/actions/workflows/2-commit-a-file.yml)
+         
